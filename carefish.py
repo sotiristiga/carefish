@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_carousel import carousel
 from st_ant_carousel import st_ant_carousel
 
 
